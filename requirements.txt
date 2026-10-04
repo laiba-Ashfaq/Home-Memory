@@ -1,0 +1,5 @@
+streamlit
+pymongo
+ollama
+python-dotenv
+pillow
